@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "quisioo",
+        "email": "quisio123@gmail.com",
+        "edad": "23",
+        "pass": "$2a$12$pepyjeLDb7qXI4XkbWQXTuaUlG.ssI/AihqB1XJBLWSqJqM5WzkXK",
+        "colors": "#800000",
+        "rol": "usuario"
+    },
+    {
+        "id": 2,
+        "name": "Nicolas",
+        "email": "nicosube2014@gmail.com",
+        "edad": "34",
+        "pass": "$2a$12$pepyjeLDb7qXI4XkbWQXTuaUlG.ssI/AihqB1XJBLWSqJqM5WzkXK",
+        "colors": "#800000",
+        "rol": "usuario"
+    }
+]
